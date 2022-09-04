@@ -5,3 +5,4 @@ resources:
 - gotk-sync.yaml
 - app-kustomization.yaml
 - source.yaml
+- secret.yaml
