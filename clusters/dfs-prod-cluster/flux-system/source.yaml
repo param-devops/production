@@ -6,7 +6,7 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: master
+    branch: main
   secretRef:
     name: flux-secret-https
   url: https://github.com/param-devops/dsf-interview-solution.git
